@@ -1,0 +1,72 @@
+.sidebar{
+  float: right;
+  width: 20%;
+  color: black;
+  background-color: yellow;
+  padding: 10px;
+  margin: 5px;
+  
+}
+
+h1, h2, h3 {
+  text-align: center;
+  border-top: 3px solid rgb(134, 132, 3);
+  border-bottom: 3px solid rgb(134, 132, 3);
+}
+
+body {
+  background-color: black;
+  color: antiquewhite;
+}
+
+.header {
+  background-color: yellow;
+  color: black;
+  font-style: italic;
+  font-weight: 300;
+}
+
+#guitar {
+  width: 99%;
+  height: 400px;
+}
+
+.band-pic {
+  width: 99%;
+  border-top: 3px solid rgb(134, 132, 3);
+  border-bottom: 3px solid rgb(134, 132, 3);
+
+}
+
+h2 {
+  background-color: yellow;
+  color:black;
+  padding: 15px;
+  font-style: italic;
+  
+}
+ 
+.body-images {
+  width: 77%;
+  height: 200px;
+  border: 2px solid rgb(134, 132, 3);
+  
+}
+
+#up-coming {
+  border-top: 3px solid rgb(134, 132, 3);
+  border-bottom: 3px solid rgb(134, 132, 3);
+  padding: 10px;
+}
+
+strong {
+  font-weight: 1000;
+}
+
+.about-us {
+  font-size: 90%;
+}
+
+#about-h2 {
+  padding: 5px;
+}
